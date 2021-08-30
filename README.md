@@ -28,7 +28,7 @@ Apple's website replica made for educational purposes only.
 
 ### What I learned📝
 
-- Use the <b>position property</b> to put the menu floating in the top.
+- Use the <strong>position</strong> property to put the menu fixed in the top.
 ```css
 #menu {
     position: fixed;
