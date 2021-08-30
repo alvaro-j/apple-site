@@ -16,7 +16,7 @@ Apple's website replica made for educational purposes only.
 
 ### Links
 
-- Live Site URL: [buyList](https://alvaro-j.github.io/apple-site/)
+- Live Site URL: [Apple website](https://alvaro-j.github.io/apple-site/)
 
 ## My process🧩
 
