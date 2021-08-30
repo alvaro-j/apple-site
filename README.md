@@ -28,13 +28,9 @@ Apple's website replica made for educational purposes only.
 
 ### What I learned📝
 
-- Use the <b>CSS @media rule</b> to set the style to different devices.
+- Use the <b>CSS property position</b> to put the menu floating in the top.
 ```css
-@media (max-width: 800px) {
-    #btn button{
-        padding: 20px 40px;
-    }
-}
+
 ```
 
 ## Author🙋🏻
