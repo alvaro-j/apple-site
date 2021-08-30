@@ -30,10 +30,11 @@ Apple's website replica made for educational purposes only.
 
 - Use the <b>CSS property position</b> to put the menu floating in the top.
 ```css
-
+#menu {
+    position: fixed;
+}
 ```
 
 ## Author🙋🏻
 
 - Website - [Álvaro J.](https://www.github.com/alvaro-j/)
-
