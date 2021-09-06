@@ -6,15 +6,15 @@ Apple's website replica made for educational purposes only.
 ## Table of contents✒️
 
 - [Overview](#overview)🎯
-  - [Links](#links)
+  - [Links](#links)🔗
 - [My process](#my-process)🧩
-  - [Built with](#built-with)
+  - [Built with](#built-with)🔨
   - [What I learned](#what-i-learned)📝
 - [Author](#author)🙋🏻
 
 ## Overview🎯
 
-### Links
+### Links🔗
 
 - Live Site URL: [Apple website](https://alvaro-j.github.io/apple-site/)
 
